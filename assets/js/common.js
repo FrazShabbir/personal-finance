@@ -1,7 +1,4 @@
-
-$(document).ready(function(){
-    $(function(){
-        $("#header").load("header.html"); 
-        $("#footer").load("footer.html"); 
-        });
-})
+function loadHeaders(title = ""){
+    $("#header").load("header.html"); 
+    $("#footer").load("footer.html"); 
+    }

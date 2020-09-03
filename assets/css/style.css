@@ -1,0 +1,79 @@
+.headerspace{
+    padding: 2% 0% 2% 2%;
+    background-color: rgb(249 248 246);
+}
+.headericon{
+    float: right;
+}
+.brand a{
+    text-decoration: none;
+}
+.brand a:hover{
+    text-decoration: none;
+}
+.brand span{
+    color: black;
+}
+.site-boyd{
+    height: 700px;
+}
+.site-footer{
+    background-color:rgb(249 248 246);
+}
+.adrs h2{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.icondis{
+    margin-left: 15px;
+}
+.footerspace{
+    margin-bottom: 3%;
+}
+.leftfooter{
+    margin-left: 5%;
+}
+.iconbox{
+    background-color: rgb(236 236 236);
+    width: fit-content;
+    padding: 2%;
+}
+.copy-right{
+    position: absolute;
+    bottom: 30px;
+}
+.copy-right a{
+    text-decoration: none;
+    color: black;
+}
+.copy-right a:hover{
+    text-decoration: none;
+}
+
+.privacy{
+    position: absolute;
+    bottom: 30px;
+}
+.privacy a{
+    text-decoration: none;
+    color: black;
+}
+.privacy a:hover{
+    text-decoration: none;
+}
+.terms{
+    position: absolute;
+    bottom: 30px;
+}
+.terms a{
+    text-decoration: none;
+    color: black;
+}
+.terms a:hover{
+    text-decoration: none;
+}
+.social-icon{
+    color:  rgb(209 209 209);
+    
+}
